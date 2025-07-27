@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PilotIQ.Backend", "PilotIQ.Backend.csproj", "{7D256B65-2959-46E0-9041-01E25DF2CE2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PilotIQ.Frontend", "..\PilotIQ.Frontend\PilotIQ.Frontend.csproj", "{873F2F9D-2B03-4ECB-82A8-9FF4537EA457}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D256B65-2959-46E0-9041-01E25DF2CE2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D256B65-2959-46E0-9041-01E25DF2CE2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D256B65-2959-46E0-9041-01E25DF2CE2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D256B65-2959-46E0-9041-01E25DF2CE2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{873F2F9D-2B03-4ECB-82A8-9FF4537EA457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{873F2F9D-2B03-4ECB-82A8-9FF4537EA457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{873F2F9D-2B03-4ECB-82A8-9FF4537EA457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{873F2F9D-2B03-4ECB-82A8-9FF4537EA457}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5F1FC6C-EBBA-4059-8FD3-5438D9E44F29}
+	EndGlobalSection
+EndGlobal
